@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verzeichniß Musikalischer Bücher, sowohl zur Theorie als Praxis, 1760</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Seminar Digitale Edition</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Verzeichniß Musikalischer Bücher, sowohl zur Theorie als Praxis, und für alle Instrumente, in ihre gehörige Classen ordentlich eingetheilet; welche bey Johann Gottlob Immanuel Breitkopf in Leipzig um beystehende Preise […] zu bekommen sind
+          Erste Ausgabe</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage type="main"><docTitle><titlePart type="main">Verzeichniß<lb/>Muſikaliſcher Bücher,<lb/>ſowohl<lb/>zur Theorie als Praxis, und für alle<lb/>Jnſtrumente,<lb/><hi rendition="#g">in ihre gehörige Claſſen</hi><lb/>ordentlich eingetheilet;</titlePart></docTitle>
+      <lb/><titlePart type="desc">welche bey<lb/><persName>Johann Gottlob Jmmanuel Breitkopf</persName><lb/><hi rendition="#g">in <placeName>Leipzig</placeName></hi><lb/>um beyſtehende Preise in <hi rendition="#aq">Louis d'or à</hi> 5 Thlr.<lb/>zu bekommen ſind.</titlePart>
+      <figure/><docImprint>Erſte Ausgabe.<milestone unit="section" rendition="#hr"/><lb/><pubPlace>Leipzig</pubPlace>,<lb/>in der Neujahr-Meſſe. <docDate>1760</docDate>.</docImprint></titlePage>
+    </front>
+    <body>
+      <head></head>
+      <div>
+        <bibl><persName ref="http://d-nb.info/gnd/123456789X">Name</persName>, Titel, <pubPlace><placeName>Erscheinungsort</placeName></pubPlace>, <date>Jahr</date>. Preis.</bibl>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+    </body>
+  </text>
+</TEI>
