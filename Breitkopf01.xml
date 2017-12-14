@@ -23,11 +23,19 @@
       <lb/><titlePart type="desc">welche bey<lb/><persName>Johann Gottlob Jmmanuel Breitkopf</persName><lb/><hi rendition="#g">in <placeName>Leipzig</placeName></hi><lb/>um beyſtehende Preise in <hi rendition="#aq">Louis d'or à</hi> 5 Thlr.<lb/>zu bekommen ſind.</titlePart>
       <figure/><docImprint>Erſte Ausgabe.<milestone unit="section" rendition="#hr"/><lb/><pubPlace>Leipzig</pubPlace>,<lb/>in der Neujahr-Meſſe. <docDate>1760</docDate>.</docImprint></titlePage>
       <pb n="[2]" facs="#f0002"/>
-      <div></div>
+      <div type="contents">
+        <head rendition="#c">Jnhalt.
+          <lb/><milestone unit="section" rendition="#hr"/>
+          <lb/><milestone unit="section" rendition="#hr"/>
+        </head>
+        <list>
+          <item><hi rendition="#aq">I.</hi> Hiſtorie der Muſik. <ref target="#f0003">S. 3</ref></item>
+          <item><hi rendition="#aq">II.</hi> Schriften, die Muſik und deren Critik insgemein betreffend. <ref target="#f0003">3</ref></item>
+        </list>
+      </div>
     </front>
     <body>
-      <head rendition="#c">
-        Verzeichniß<lb/>Muſikaliſcher Bücher.
+      <head rendition="#c">Verzeichniß<lb/>Muſikaliſcher Bücher.
         <lb/><milestone unit="section" rendition="#hr"/>
         <lb/><milestone unit="section" rendition="#hr"/>
       </head>
