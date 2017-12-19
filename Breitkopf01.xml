@@ -35,11 +35,12 @@
       </div>
     </front>
     <body>
-      <head rendition="#c">Verzeichniß<lb/>Muſikaliſcher Bücher.
+      <pb n="3" facs="#f0003"/>
+      <head rendition="#c">
+        Verzeichniß<lb/>Muſikaliſcher Bücher.
         <lb/><milestone unit="section" rendition="#hr"/>
         <lb/><milestone unit="section" rendition="#hr"/>
       </head>
-      <pb n="3" facs="#f0003"/>
       <div>
         <head rendition="#c"><hi rendition="#aq">I.</hi> Hiſtorie der Muſik.</head>
         <lb/><bibl><hi rendition="#aq"><hi rendition="#i"><persName ref="http://d-nb.info/gnd/118514059">Bourdelot</persName></hi>, Hiſtoire da la Muſique &amp; de ſes Effets, IV Volumes, à Amst. 1748. 12mo. à</hi> 1 thl. 18 gl.</bibl>
