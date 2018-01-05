@@ -103,13 +103,138 @@
       <div>
         <head rendition="#c"><hi rendition="#aq">III.</hi> Anfangsgründe der Muſik.</head>
         <div>
-            <bibl><persName ref="http://d-nb.info/gnd/123456789X">G. G. G.</persName>, Kurze Anweiſung zu den erſten Anfangſgründen der<lb/> Muſik, nach welcher entweder ein Lehrmeiſter ſeine Untergebene,<lb/> oder auch sonſt ein Lehrſchüler in derſelben ſich selbſt so leicht als<lb/> gründlich unterrichten kann, was er abſonderlich und ganz un=<lb/> umgänglich hiervon zu wiſſen und zu lernen vonnöthen hat.<lb/> Nebſt Erklärungen der vornehmſten muſicalischen Kunſtwärter, nach<lb/> der neueſten und heutiges Tages üblichen Manier abgefaſſet und<lb/> verfertiget. <pubPlace><placeName>Langenſalze</placeName></pubPlace>, <date>1752</date>. 4<hi rendition="#aq">to</hi>, à 6 gl.</bibl>
+          <head rendition="#c"><hi rendition="#aq">A.</hi> Zur Muſik überhaupt.</head>
+          <lb/><bibl><persName>G. G. G.</persName>, Kurze Anweiſung zu den erſten Anfangſgründen der<lb/> Muſik, nach welcher entweder ein Lehrmeiſter ſeine Untergebene,<lb/> oder auch sonſt ein Lehrſchüler in derſelben ſich selbſt so leicht als<lb/> gründlich unterrichten kann, was er abſonderlich und ganz un-<lb/> umgänglich hiervon zu wiſſen und zu lernen vonnöthen hat.<lb/> Nebſt Erklärungen der vornehmſten muſicalischen Kunſtwärter, nach<lb/> der neueſten und heutiges Tages üblichen Manier abgefaſſet und<lb/> verfertiget. <pubPlace><placeName>Langenſalze</placeName></pubPlace>, <date>1752</date>. 4<hi rendition="#aq">to</hi>, à 6 gl.</bibl>
+        </div>
+        <div>
+          <head rendition="#c"><hi rendition="#aq">B.</hi> Zur Jnstrumentalmuſik beſonders.</head>
+        </div>
+      </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">IV.</hi> Anweiſungen zum General-Baß.</head>
+        <pb n="5" facs="#f0005"/>
+        <pb n="6" facs="#f0006"/>
+      </div>
+      <div>
+        <pb n="7" facs="#f0007"/>
+      </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">VI.</hi> Das Singen.</head>
+        <div>
+          <head rendition="#c">1. Anweiſungen zum Singen.</head>
+          <pb n="8" facs="#f0008"/>
+        </div>
+        <div>
+          <head rendition="#c">2. Singen allein ohne Accompagnement.</head>
+          <div>
+            <head rendition="#c">a) Geiſtliche Lieder und Gesänge.</head>
+          </div>
+          <div>
+            <head rendition="#c">b) Weltliche Lieder und Oden.</head>
+          </div>
+        </div>
+        <div>
+          <head rendition="#c">3. Choralbücher, geiſtliche Lieder und Arien,<lb/>für 1. 2. 3. 4. Stimmen, mit der Orgel<lb/>oder Clavecimbel.</head>
+          <pb n="9" facs="#f0009"/>
+        </div>
+        <div>
+          <head rendition="#c">4. Weltliche Oden und Lieder mit dem<lb/>Clavecimbel.</head>
+          <pb n="10" facs="#f0010"/>
+          <pb n="11" facs="#f0011"/>
+        </div>
+        <div>
+          <head rendition="#c">5. Opern, Cantaten und Arien,</head>
+          <div>
+            <head rendition="#c">a) mit dem Clavecimbel.</head>
+          </div>
+          <div>
+            <head rendition="#c">a) mit verſchiedenen Jnſtrumenten.</head>
+            <pb n="12" facs="#f0012"/>
+          </div>
+        </div>
+        <div>
+          <head rendition="#c">6. Vollſtimmige Kirchen- und andere<lb/>geiſtliche Muſiken.</head>
+        </div>
+      </div>
+      <pb n="13" facs="#f0013"/>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">VII.</hi> Die Orgel und das Clavecimbel.</head>
+        <div>
+        </div>
+        <div>
+          <pb n="14" facs="#f0014"/>
+        </div>
+        <div>
+          <pb n="15" facs="#f0015"/>
+          <pb n="16" facs="#f0016"/>
+        </div>
+        <div>
+          <pb n="17" facs="#f0017"/>
+        </div>
+        <pb n="18" facs="#f0018"/>
+        <div>
+          <pb n="19" facs="#f0019"/>
+          <pb n="20" facs="#f0020"/>
+        </div>
+        <div>
+          <pb n="21" facs="#f0021"/>
+          <pb n="22" facs="#f0022"/>
+          <pb n="23" facs="#f0023"/>
+        </div>
+        <div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <pb n="24" facs="#f0024"/>
+          <div>
+          </div>
+        </div>
+      </div>
+      <pb n="25" facs="#f0025"/>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">VIII.</hi> Die Violine.</head>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+          <pb n="26" facs="#f0026"/>
+        </div>
+        <div>
+        </div>
+        <pb n="27" facs="#f0027"/>
+        <div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <pb n="28" facs="#f0028"/>
+          <div>
+          </div>
         </div>
         <div>
         </div>
       </div>
       <div>
-        <pb n="5" facs="#f0005"/>
+        <head rendition="#c"><hi rendition="#aq">IX.</hi> Die <hi rendition="#aq">Viola da Gamba</hi>, oder Knie-Geige.</head>
+        <pb n="29" facs="#f0029"/>
+      </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">X.</hi> Der Violoncell, oder die Baß-Geige.</head>
+      </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">XI.</hi> Die Harfe.</head>
+      </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">XII.</hi> Die Laute.</head>
+        <div>
+        </div>
+        <pb n="30" facs="#f0030"/>
+        <div>
+        </div>
       </div>
     </body>
   </text>
