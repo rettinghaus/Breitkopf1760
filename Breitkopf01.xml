@@ -57,26 +57,9 @@
         <lb/><milestone unit="section" rendition="#hr"/>
       </head>
       <div>
-        <head rendition="#c">
-          <hi rendition="#aq">I.</hi>
-          Hiſtorie der Muſik.</head>
-        <lb/>
-        <bibl>
-          <hi rendition="#aq">
-            <hi rendition="#i">
-              <persName ref="http://d-nb.info/gnd/118514059">Bourdelot</persName>
-            </hi>, Hiſtoire da la Muſique &amp; de ſes Effets, IV Volumes, à Amst. 1748. 12mo. à</hi>
-          1 thl. 18 gl.</bibl>
-        <lb/>
-        <bibl>
-          <persName ref="http://d-nb.info/gnd/118921088">Marpurgs, (Friedr. Wilh.)</persName>
-          Critiſche Einleitung in die Geſchichte und Lehrſätze der alten und neuen Muſik, mit 8 Kupfertafeln.
-          <pubPlace>
-            <placeName>Berlin</placeName>
-          </pubPlace>,
-          <date>1759</date>. 4to
-          <hi rendition="#aq">à</hi>
-          1 thl. 8 gl.</bibl>
+        <head rendition="#c"><hi rendition="#aq">I.</hi> Hiſtorie der Muſik.</head>
+        <lb/><bibl><hi rendition="#aq"><hi rendition="#i"><persName ref="http://d-nb.info/gnd/118514059">Bourdelot</persName></hi>, Hiſtoire da la Muſique &amp; de ſes Effets, IV Volumes, à Amst. 1748. 12mo. à</hi> 1 thl. 18 gl.</bibl>
+        <lb/><bibl><persName ref="http://d-nb.info/gnd/118921088">Marpurgs, (Friedr. Wilh.)</persName> Critiſche Einleitung in die Geſchichte und Lehrſätze der alten und neuen Muſik, mit 8 Kupfertafeln. <pubPlace><placeName>Berlin</placeName></pubPlace>, <date>1759</date>. 4to. <hi rendition="#aq">à</hi> 1 thl. 8 gl.</bibl>
       </div>
       <div>
         <head rendition="#c">
@@ -97,7 +80,7 @@
         <head rendition="#c"><hi rendition="#aq">III.</hi> Anfangsgründe der Muſik.</head>
         <div>
           <head rendition="#c"><hi rendition="#aq">A.</hi> Zur Muſik überhaupt.</head>
-          <lb/><bibl><persName>G. G. G.</persName>, Kurze Anweiſung zu den erſten Anfangſgründen der<lb/> Muſik, nach welcher entweder ein Lehrmeiſter ſeine Untergebene,<lb/> oder auch sonſt ein Lehrſchüler in derſelben ſich selbſt so leicht als<lb/> gründlich unterrichten kann, was er abſonderlich und ganz un-<lb/> umgänglich hiervon zu wiſſen und zu lernen vonnöthen hat.<lb/> Nebſt Erklärungen der vornehmſten muſicalischen Kunſtwärter, nach<lb/> der neueſten und heutiges Tages üblichen Manier abgefaſſet und<lb/> verfertiget. <pubPlace><placeName>Langenſalze</placeName></pubPlace>, <date>1752</date>. 4<hi rendition="#aq">to</hi>, à 6 gl.</bibl>
+          <lb/><bibl><persName>G. G. G.</persName>, Kurze Anweiſung zu den erſten Anfangſgründen der<lb/>Muſik, nach welcher entweder ein Lehrmeiſter ſeine Untergebene,<lb/>oder auch sonſt ein Lehrſchüler in derſelben ſich selbſt so leicht als<lb/>gründlich unterrichten kann, was er abſonderlich und ganz un-<lb/>umgänglich hiervon zu wiſſen und zu lernen vonnöthen hat.<lb/>Nebſt Erklärungen der vornehmſten muſicalischen Kunſtwärter, nach<lb/>der neueſten und heutiges Tages üblichen Manier abgefaſſet und<lb/>verfertiget. <pubPlace><placeName>Langenſalze</placeName></pubPlace>, <date>1752</date>. 4to, <hi rendition="#aq">à</hi> 6 gl.</bibl>
         </div>
         <div>
           <head rendition="#c"><hi rendition="#aq">B.</hi> Zur Jnstrumentalmuſik beſonders.</head>
@@ -105,8 +88,15 @@
       </div>
       <div>
         <head rendition="#c"><hi rendition="#aq">IV.</hi> Anweiſungen zum General-Baß.</head>
-        <pb n="5" facs="#f0005"/>
+        <bibl><persName ref="http://d-nb.info/gnd/119099071">Daube, Joh. Friedr. Hochfürſtl. Würtenb. Kammer-Muſicus</persName><lb/>, General-Baß in drey Accorden, gegründet in den Regeln der al-<lb/>ten und neuen Autoren, nebſt einem hierauf gebauten Unter-<lb/>richt, wie man aus einer jeden aufgegebenen Tonart, nur mit<lb/>zwey Mittels-Accorden, in eine von den drey und zwanzig Ton-<lb/>arten, die man begehret, gelangen kann, und der hierauf gegrün-<lb/>deten Kunſt zu präludiren, wie auch zu jeder Melodie einen Baß<lb/>zu ſetzen, daß alſo durch dieſe neue und leichte Anleitung, zu-<lb/>gleich auch zur Compoſition unmittelbar der Weg gebahnet wird.<lb/><pubPlace><placeName>Leipzig</placeName></pubPlace>, <date>1736</date>. 4to. <hi rendition="#aq">à</hi> 1 thl.</bibl>
+        <bibl>
+          <pb n="5" facs="#f0005"/>
+        </bibl>
         <pb n="6" facs="#f0006"/>
+      </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">V.</hi> Die Setzkunſt.</head>
+        <bibl><persName ref="http://d-nb.info/gnd/118578995">Mattheſons, (Joh.)</persName> Kern melodiſcher Wiſſenſchaft, beſtehend in den<lb/> auserleſenſten Haupt- und Grundlehren der muſikaliſchen Setz-<lb/>kunst oder Compoſition, als ein Vorläufer des vollkommenen<lb/> Capellmeiſters. <pubPlace><placeName>Hamb.</placeName></pubPlace>, <date>1737</date>. 4to. <hi rendition="#aq">à</hi>12gl.</bibl>
       </div>
       <div>
         <pb n="7" facs="#f0007"/>
@@ -133,6 +123,12 @@
         <div>
           <head rendition="#c">4. Weltliche Oden und Lieder mit dem<lb/>Clavecimbel.</head>
           <pb n="10" facs="#f0010"/>
+          <lb/><bibl>(<persName>Hagedorns, Hrn. von</persName>) Sammlung neuer Oden und Lieder. <hi rendition="#aq">I.</hi> <hi rendition="#aq">II.</hi><lb/><hi rendition="#aq">III.</hi> Theil. <pubPlace><placeName>Hamb.</placeName></pubPlace> <date>1756</date>. <date>57</date>. 4to. <hi rendition="#aq">à</hi> 2 thl.</bibl>
+          <lb/><bibl><persName>Herbings, (Aug Bernh. Valent.)</persName> Muſikaliſche Beluſtigungen, in<lb/>dreyßig ſcherzenden Liedern. <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1758</date>. fol. <hi rendition="#aq">à</hi> 16 gl.</bibl>
+          <lb/><bibl><persName>Heſſe</persName> Lieder zum unſchuldigen Vergnügen, in die Muſik gesetzt.<lb/><pubPlace><placeName>Lübeck</placeName></pubPlace>, <date>1757</date>. fol. <hi rendition="#aq">à</hi> 14 gl.</bibl>
+          <lb/><bibl>Kriegslied, Schlachtgeſang und Siegeslied eines preußischen Sol-<lb/>daten, mit ſeines Bruders Melodien. Geſungen bey Prag. <pubPlace><placeName>Berlin</placeName></pubPlace> <date>1757</date>. fol. <hi rendition="#aq">transv. à</hi> 4 gl.</bibl>
+          <lb/><bibl>Zwey Kriegslieder an die Unterthanen ſeines Königs, von einem<lb/>preuß. Officier, mit Melodien, bey dem Clavier zu ſingen. <pubPlace><placeName>Ber-<lb/>lin</placeName></pubPlace> 4to. <hi rendition="#aq">à</hi> 2 gl.</bibl>
+
           <pb n="11" facs="#f0011"/>
         </div>
         <div>
