@@ -82,21 +82,14 @@
         <head rendition="#c">
           <hi rendition="#aq">II.</hi>
           Schriften, die Muſik und deren Critik<lb/>insgemein betreffend.</head>
+        <bibl><persName ref="http://d-nb.info/gnd/118951688">Hertels, Joh. Wilh.</persName>Sammlung muſicalischer Schriften, gröſten-<lb/>theils aus den Werten der Italiener und Franzoſen überlegt,<lb/>und mit Anmerkungen verſehen.<pubPlace><placeName ref="http://d-nb.info/gnd/4035208-0">Leipz.</placeName></pubPlace> in <hi rendition="#aq">8vo</hi>, 1ſtes und 2tes<lb/>Stück<hi rendition="#aq">á</hi>4 gl.</bibl>
         <bibl>
-          <hi rendition="#g">
-            <persName ref="xxxx">Hertels, Joh. Wilh.</persName>Sammlung musicalischer Schriften, grösten-<lb/>theils aus den Werten der Italiener und Franzoßen überlegt,<lb/>und mit Unmertungen verßehen.<pubPlace>
-              <placeName ref="xxxx">Leipz.</placeName>
-            </pubPlace>in<hi rendition="#aq">8vo,</hi>1ßtes und 2tes<lb/>Stück
-            <hi rendition="#aq">á</hi>4 gl.</hi>
-        </bibl>
-        <bibl>
-          <hi rendition="#g">
-            <persName ref="xxxx">Mattheßons, Joh. Schleßw. Hollßt.</persName>Capellmeister, und königl.<lb/>Großbrit. Legations- Raths, Vollkommener Capellmeister, d.i.
-            <lb/>ründliche Anzeige aller derjenigen Sachen, die einer Wissen, kön-<lb/>nen, und vollkommen inne haben muß der einer Capelle mit Eh<lb/>ren und nutzen vorstehen will.<space dim="horizontal"/>Zum Beßuch entworfen
+            <persName ref="http://d-nb.info/gnd/118578995">Mattheſons, Joh. Schleßw. Hollſt.</persName>Capellmeiſter, und königl.<lb/>Großbrit. Legations- Raths, Vollkommener Capellmeiſter, d.i.
+            <lb/>gründliche Anzeige aller derjenigen Sachen, die einer Wiſſen, kön-<lb/>nen, und vollkommen inne haben muß, der einer Capelle mit Eh<lb/>ren und nutzen vorſtehen will.<space dim="horizontal"/>Zum Beßuch entworfen
             <pubPlace>
               <placeName>Hamb.</placeName>
             </pubPlace><lb/>
-            <hi rendition="#aq">fol.<date>1739</date>. à 2</hi>thl.</hi>
+            <hi rendition="#aq">fol.<date>1739</date>. à 2</hi>thl.
         </bibl>
       </div>
       <pb n="4" facs="#f0004"/>
