@@ -98,10 +98,16 @@
           <head rendition="#c">4. Weltliche Oden und Lieder mit dem<lb/>Clavecimbel.</head>
           <pb n="10" facs="#f0010"/>
           <lb/><bibl>(<persName>Hagedorns, Hrn. von</persName>) Sammlung neuer Oden und Lieder. <hi rendition="#aq">I.</hi> <hi rendition="#aq">II.</hi><lb/><hi rendition="#aq">III.</hi> Theil. <pubPlace><placeName>Hamb.</placeName></pubPlace> <date>1756</date>. <date>57</date>. 4to. <hi rendition="#aq">à</hi> 2 thl.</bibl>
-          <lb/><bibl><persName>Herbings, (Aug Bernh. Valent.)</persName> Muſikaliſche Beluſtigungen, in<lb/>dreyßig ſcherzenden Liedern. <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1758</date>. fol. <hi rendition="#aq">à</hi> 16 gl.</bibl>
-          <lb/><bibl><persName>Heſſe</persName> Lieder zum unſchuldigen Vergnügen, in die Muſik gesetzt.<lb/><pubPlace><placeName>Lübeck</placeName></pubPlace>, <date>1757</date>. fol. <hi rendition="#aq">à</hi> 14 gl.</bibl>
-          <lb/><bibl>Kriegslied, Schlachtgeſang und Siegeslied eines preußischen Sol-<lb/>daten, mit ſeines Bruders Melodien. Geſungen bey Prag. <pubPlace><placeName>Berlin</placeName></pubPlace> <date>1757</date>. fol. <hi rendition="#aq">transv. à</hi> 4 gl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/1050653742">Herbings, (Aug Bernh. Valent.)</persName> Muſikaliſche Beluſtigungen, in<lb/>dreyßig ſcherzenden Liedern. <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1758</date>. fol. <hi rendition="#aq">à</hi> 16 gl.</bibl>
+          <lb/><bibl corresp="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00036050-6"><persName ref="http://d-nb.info/gnd/1055595597">Heſſe</persName> Lieder zum unſchuldigen Vergnügen, in die Muſik gesetzt.<lb/><pubPlace><placeName>Lübeck</placeName></pubPlace>, <date>1757</date>. fol. <hi rendition="#aq">à</hi> 14 gl.</bibl>
+          <lb/><bibl>Kriegslied, Schlachtgeſang und Siegeslied eines preußiſchen Sol-<lb/>daten, mit ſeines Bruders Melodien. Geſungen bey Prag. <pubPlace><placeName>Berlin</placeName></pubPlace> <date>1757</date>. fol. <hi rendition="#aq">transv.</hi> <hi rendition="#aq">à</hi> 4 gl.</bibl>
           <lb/><bibl>Zwey Kriegslieder an die Unterthanen ſeines Königs, von einem<lb/>preuß. Officier, mit Melodien, bey dem Clavier zu ſingen. <pubPlace><placeName>Ber-<lb/>lin</placeName></pubPlace> 4to. <hi rendition="#aq">à</hi> 2 gl.</bibl>
+          <lb/><bibl corresp="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00073537-3">Kriegslieder, preußiſche, in den Feldzügen 1756, 1757, von einem<lb/>Grenadier, mit Melodien. Der Grenadier an die Kriegsmuſe,<lb/>nach dem Siege bey Zorndorf. <pubPlace><placeName>Berlin</placeName></pubPlace>, <date>1759</date>. 8vo. <hi rendition="#aq">à</hi> 12 gl.</bibl>
+          <lb/><bibl>(<persName>Lambo, K.</persName>) Oden. 2te Auflage. <pubPlace><placeName>Hamb.</placeName></pubPlace> <date>1755</date>. fol. <hi rendition="#aq">à</hi> 20 gl.</bibl>
+          <lb/><bibl corresp="http://resolver.staatsbibliothek-berlin.de/SBB0000B84000000000"><persName ref="http://d-nb.info/gnd/100510140">Leydings, (J. D.)</persName> Oden und Lieder mit ihren eigenen Melodien.<lb/><pubPlace><placeName>Altona</placeName></pubPlace>, <date>1757</date>. 8vo. <hi rendition="#aq">à</hi> 16 gl.</bibl>
+          <lb/><bibl>Lieder mit Melodien fürs Clavier, (<persName>Hillers</persName>) <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1760</date>. 4t. <hi rendition="#aq">à</hi> 12 gl.</bibl>
+          <lb/><bibl>Lieder mit neuen Melodien. <pubPlace><placeName>Anſpach</placeName></pubPlace>, <date>1756</date>. fol.  <hi rendition="#aq">transv.</hi> <hi rendition="#aq">à</hi> 12 gl.</bibl>
+          <lb/><bibl corresp="https://hdl.handle.net/2027/hvd.hxjh7z">Lieder mit Melodien. <pubPlace><placeName>Anſpach</placeName></pubPlace>. <date>1758</date>. 8vo. <hi rendition="#aq">à</hi> 12 gl.</bibl>
 
           <pb n="11" facs="#f0011"/>
         </div>
