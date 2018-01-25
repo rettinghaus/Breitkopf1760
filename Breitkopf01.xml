@@ -70,7 +70,7 @@
       </div>
       <div>
         <head rendition="#c"><hi rendition="#aq">V.</hi> Die Setzkunſt.</head>
-        <bibl><persName ref="http://d-nb.info/gnd/118578995">Mattheſons, (Joh.)</persName> Kern melodiſcher Wiſſenſchaft, beſtehend in den<lb/>auserleſenſten Haupt- und Grundlehren der muſikaliſchen Setz-<lb/>kunst oder Compoſition, als ein Vorläufer des vollkommenen<lb/>Capellmeiſters. <pubPlace><placeName>Hamb.</placeName></pubPlace>, <date>1737</date>. 4to. <hi rendition="#aq">à</hi>12gl.</bibl>
+        <lb/><bibl><persName ref="http://d-nb.info/gnd/118578995">Mattheſons, (Joh.)</persName> Kern melodiſcher Wiſſenſchaft, beſtehend in den<lb/>auserleſenſten Haupt- und Grundlehren der muſikaliſchen Setz-<lb/>kunst oder Compoſition, als ein Vorläufer des vollkommenen<lb/>Capellmeiſters. <pubPlace><placeName>Hamb.</placeName></pubPlace>, <date>1737</date>. 4to. <hi rendition="#aq">à</hi> 12 gl.</bibl>
       </div>
       <div>
         <pb n="7" facs="#f0007"/>
@@ -108,6 +108,10 @@
           <lb/><bibl>Lieder mit Melodien fürs Clavier, (<persName>Hillers</persName>) <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1760</date>. 4t. <hi rendition="#aq">à</hi> 12 gl.</bibl>
           <lb/><bibl>Lieder mit neuen Melodien. <pubPlace><placeName>Anſpach</placeName></pubPlace>, <date>1756</date>. fol.  <hi rendition="#aq">transv.</hi> <hi rendition="#aq">à</hi> 12 gl.</bibl>
           <lb/><bibl corresp="https://hdl.handle.net/2027/hvd.hxjh7z">Lieder mit Melodien. <pubPlace><placeName>Anſpach</placeName></pubPlace>. <date>1758</date>. 8vo. <hi rendition="#aq">à</hi> 12 gl.</bibl>
+          <lb/><bibl>Neueſte Sammlung deutſcher Lieder, nebſt Tractat von deutſchen<lb/>Liedern, mit Vorrede und Register. <pubPlace><placeName>Berlin</placeName></pubPlace>, <date>1759</date>. 4to. <hi rendition="#aq">à</hi> 4 gl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/119139804">Löwens, (Joh. Friedr.)</persName> Oden und Lieder, in Muſik geſetzt von<lb/><persName ref="http://d-nb.info/gnd/118951688">Joh. Wilh. Hertel</persName>. <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1757</date>. fol. <hi rendition="#aq">transv.</hi> <hi rendition="#aq">à</hi> 16 gl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/118921088">Marpurgs, (Friedr. Wilh.)</persName> neue Lieder zum Singen beym Cla-<lb/>vier. <pubPlace><placeName>Berlin</placeName></pubPlace> <date>1756</date>. 4to. <hi rendition="#aq">à</hi> 12 gl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/118578995">Mattheſons, (Joh.)</persName> <hi rendition="#aq">Odeon morale, jucundum et vitale,</hi> ſittli-<lb/>che Geſänge, angenehme Klänge, gut zur Lebenslänge, Text<lb/>und Ton von Mattheſon; mit vorgeſetzten ſonderbaren, nach<lb/>dem neueſten Geſchmack eingerichteten <hi rendition="#aq">VII</hi> Anreden. <pubPlace><placeName>Nürn-<lb/>berg</placeName></pubPlace> <date>1757</date>. fol. <hi rendition="#aq">à</hi> 21 gl.</bibl>
 
           <pb n="11" facs="#f0011"/>
         </div>
