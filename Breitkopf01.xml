@@ -82,6 +82,9 @@
           <pb n="8" facs="#f0008"/>
         </div>
         <div>
+          <bibl><persName ref="http://d-nb.info/gnd/100568009">Tosi, (Pet.Franz. Mitgl. der philharmon. Academ.)</persName>, Anleitung zur<lb/>Singkunſt aus dem Italieniſchen. Mit Erläuterungen und Zuſä-<lb/>tzen von <persName ref="http://d-nb.info/gnd/118917382">Joh. Friedr. Agricola</persName>. <pubPlace><placeName>Berlin</placeName></pubPlace>, <date>1757</date>, 4to. <hi rendition="#aq">à</hi> 1thl. 8gl.</bibl>
+        </div>
+        <div>
           <head rendition="#c">2. Singen allein ohne Accompagnement.</head>
           <div>
             <head rendition="#c">a) Geiſtliche Lieder und Gesänge.</head>
