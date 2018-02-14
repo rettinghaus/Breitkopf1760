@@ -29,8 +29,43 @@
           <lb/><milestone unit="section" rendition="#hr"/>
         </head>
         <list>
-          <item><hi rendition="#aq">I.</hi> Hiſtorie der Muſik. <ref target="#f0003">S. 3</ref></item>
-          <item><hi rendition="#aq">II.</hi> Schriften, die Muſik und deren Critik insgemein betreffend. <ref target="#f0003">3</ref></item>
+          <cb/>
+          <lb/><item><hi rendition="#aq">I.</hi> Hiſtorie der Muſik. <ref target="#f0003">S. 3</ref></item>
+          <lb/><item><hi rendition="#aq">II.</hi> Schriften, die Muſik und deren Critik insgemein betreffend. <ref target="#f0003">3</ref></item>
+          <lb/><item><hi rendition="#aq">III.</hi> Anfangsgründe der Muſik. <ref target="#f0004">4</ref>
+            <list>
+              <lb/><item><hi rendition="#aq">A.</hi> Zur Muſik überhaupt.</item>
+              <lb/><item><hi rendition="#aq">B.</hi> Zur Jnstrumentalmuſik beſonders.</item>
+            </list>
+          </item>
+          <lb/><item><hi rendition="#aq">IV.</hi> Anweiſungen zum General-Baß. <ref target="#f0006">6</ref></item>
+          <lb/><item><hi rendition="#aq">V.</hi> Die Setzkunſt. <ref target="#f0007">7</ref>
+            <list>
+              <lb/><item>Die Fuge.</item>
+            </list>
+          </item>
+          <lb/><item><hi rendition="#aq">VI.</hi> Das Singen. <ref target="#f0007">7</ref>
+            <list>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+            </list>
+          </item>
+          <lb/><item><hi rendition="#aq">VII.</hi> Die Orgel und das Clavecimbel. <ref target="#f0007">7</ref>
+            <list>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+              <lb/><item></item>
+            </list>
+          </item>
+          <cb/>
         </list>
       </div>
     </front>
