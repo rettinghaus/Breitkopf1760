@@ -88,8 +88,6 @@
           </div>
           <div>
             <head rendition="#c">b) Weltliche Lieder und Oden.</head>
-            <lb/><bibl><hi rendition="#aq #i">Aria</hi>, <hi rendition="#aq">No.</hi> 1. <pubPlace><placeName>Berlin</placeName></pubPlace>, <date>1759</date>. 4to. <hi rendition="#aq">à</hi> 2 gl.</bibl>
-            <lb/><bibl><persName>Bachs, (Joh. Ernst.)</persName> Sammlung auserleſener Fabeln, mit darzu<lb/>verfertigten Melodien. <hi rendition="#aq">I.</hi> Thl. <pubPlace><placeName>Nürnberg</placeName></pubPlace>, fol. <hi rendition="#aq">à</hi> 1 thl. 12 gl.</bibl>
           </div>
         </div>
         <div>
@@ -98,6 +96,13 @@
         </div>
         <div>
           <head rendition="#c">4. Weltliche Oden und Lieder mit dem<lb/>Clavecimbel.</head>
+          <lb/><bibl><hi rendition="#aq #i">Aria</hi>, <hi rendition="#aq">No.</hi> 1. <pubPlace><placeName>Berlin</placeName></pubPlace>, <date>1759</date>. 4to. <hi rendition="#aq">à</hi> 2 gl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/121599027">Bachs, (Joh. Ernst.)</persName> Sammlung auserleſener Fabeln, mit darzu<lb/>verfertigten Melodien. <hi rendition="#aq">I.</hi> Thl. <pubPlace><placeName>Nürnberg</placeName></pubPlace>, fol. <hi rendition="#aq">à</hi> 1 thl. 12 gl.</bibl>
+          <lb/><bibl>Berliniſche Oden und Lieder, <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1757</date>. fol. <hi rendition="#aq">transv.</hi> beſteht<lb/>aus 43 Liedern, von verſchiedener Compoſition, <hi rendition="#aq">à</hi> 1 thl.</bibl>
+          <lb/><bibl>— — Zweyter Theil. <pubPlace><placeName>Leipz.</placeName></pubPlace> <hi rendition="#aq">à</hi> 1 thl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/132282542">Endters, (Chriſt. Friedr. Organiſt in Buxtehude)</persName> Lieder zum<lb/>Scherz und Zeitvertreib, in die Muſik geſetzt. <pubPlace><placeName>Hamburg</placeName></pubPlace> <date>1757</date>.<lb/>fol. <hi rendition="#aq">à</hi> 12 gl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/124603386">Fleiſchers, (Friedr. Gottl.)</persName> Oden und Lieder mit Melodien, <hi rendition="#aq">I.</hi> und<lb/><hi rendition="#aq">II.</hi> Theil. <pubPlace><placeName>Braunschweig</placeName></pubPlace>, <date>1756</date>. <date>57</date>. fol. <hi rendition="#aq">transv.</hi> <hi rendition="#aq">à</hi> Theil 16 gl.</bibl>
+          <lb/><bibl><persName ref="http://d-nb.info/gnd/118538322">Gellerts, (Hrn. Prof.)</persName> Oden, Lieder und einige Fabeln, größtentheils<lb/>aus den Beluſtigungen des Verſtandes und Witzes genommen,<lb/>in die Muſik geſetzt von Berliniſchen Tonkünstlern. <pubPlace><placeName>Leipzig</placeName></pubPlace>,<lb/><date>1759</date>. fol. <hi rendition="#aq">transv.</hi> <hi rendition="#aq">à</hi> 1 thl.</bibl>
           <pb n="10" facs="#f0010"/>
           <lb/><bibl>(<persName>Hagedorns, Hrn. von</persName>) Sammlung neuer Oden und Lieder. <hi rendition="#aq">I.</hi> <hi rendition="#aq">II.</hi><lb/><hi rendition="#aq">III.</hi> Theil. <pubPlace><placeName>Hamb.</placeName></pubPlace> <date>1756</date>. <date>57</date>. 4to. <hi rendition="#aq">à</hi> 2 thl.</bibl>
           <lb/><bibl><persName ref="http://d-nb.info/gnd/1050653742">Herbings, (Aug Bernh. Valent.)</persName> Muſikaliſche Beluſtigungen, in<lb/>dreyßig ſcherzenden Liedern. <pubPlace><placeName>Leipz.</placeName></pubPlace> <date>1758</date>. fol. <hi rendition="#aq">à</hi> 16 gl.</bibl>
