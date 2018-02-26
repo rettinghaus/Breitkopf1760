@@ -255,6 +255,31 @@
         <div>
         </div>
       </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">XIII.</hi> Die Flöte traverſiere, oder die<lb/>Queerflöte.</head>
+        <div>
+        </div>
+        <div>
+          <pb n="31" facs="#f0031"/>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+      </div>
+      <pb n="32" facs="#f0032"/>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">XIV.</hi> Die Oboe.</head>
+      </div>
+      <div>
+        <head rendition="#c"><hi rendition="#aq">XV.</hi> Sammlungen für allerley<lb/>Inſtrumente.</head>
+      </div>
+      <milestone unit="section" rendition="#hr"/>
+      <div>
+        <head rendition="#c">Nachricht.</head>
+      </div>
     </body>
   </text>
 </TEI>
