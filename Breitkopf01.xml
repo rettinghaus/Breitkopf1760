@@ -201,7 +201,30 @@
           <pb n="16" facs="#f0016"/>
         </div>
         <div>
+          <head rendition="#c">4. Kleine Stücke für das Clavecimbel.</head>
           <pb n="17" facs="#f0017"/>
+          <lb/><bibl><persName>Müllers, (Joh. Nic.)</persName> des muſikalischen Frauenzimmers 1ſte Partie,<lb/>beſtehend aus einem Allegro, Ballet, Largo, Polognoiſe, Ten-<lb/>treſement, 2 Menuets, March und Gique. <placeName>Nürnberg</placeName>. 4to<lb/><hi rendition="#aq">transv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 6 gl.</bibl>
+          <lb/><bibl><persName>—</persName> — <hi rendition="#aq">II.</hi> Partie, <hi rendition="#aq">à</hi> 6 gl.</bibl>
+          <div>
+            <head rendition="#c">Mourquien.</head>
+            <lb/><bibl><persName ref="http://viaf.org/viaf/305308081">Foltmar, (Joh.)</persName> <hi rendition="#aq">VI.</hi> Mourquien, ganz neu und auserleſen, nach dem<lb/>itzigen beſten italiäniſchen <hi rendition="#aq">Gousto</hi> ſingmäßig eingerichtet, vors<lb/>Clavier, wie auch vor die Violine und <hi rendition="#aq">Flaute traverſiere.</hi> <placeName>Nürnb.</placeName><lb/>fol. <hi rendition="#aq">transv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 8 gl.</bibl>
+            <lb/><bibl><persName><hi rendition="#aq"><hi rendition="#i">Heinecke</hi>, (Jean. Eman. Lecteur du College &amp; Chantre de la libre<lb/>Ville Imper. à Dortmund)</hi></persName> <hi rendition="#aq">Six Mourqui, pour le Claveſſin. <placeName>Norimb.</placeName> fol. transv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 6 gl.</bibl>
+            <lb/><bibl><persName ref="http://d-nb.info/gnd/137999623"><hi rendition="#aq"><hi rendition="#i">Hoffmann</hi>, (Jean. Georg. Org. de S. Eliſ. à Breslau)</hi></persName> <hi rendition="#aq">Six Mourqui,<lb/>pour le Claveſſin. <placeName>Norb.</placeName> fol. trv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 6 gl.</bibl>
+            <lb/><bibl><persName ref="http://d-nb.info/gnd/131801244">Schlümbach, (Joh. Jul.)</persName> ſechs neue ſogenannte Murky vor das<lb/>Clavier geſetzet. <placeName>Nürnb.</placeName> 4to. <hi rendition="#aq">transv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 6 gl.</bibl>
+            <milestone unit="section" rendition="#stars"/>
+          </div>
+          <div>
+            <lb/><bibl>Neue Muſikalische Beluſtigung, oder Sammlung von allerley an-<lb/>genehmen Clavier-Piecen, componirt von den berühmteſten Mei-<lb/>ſtern itziger Zeit. 1ſte Ausg. <placeName>Nürnb.</placeName> <date>1759</date>. fol. <hi rendition="#aq">trav.</hi> Kupfſt. <hi rendition="#aq">à</hi> 16 gl.</bibl>
+            <lb/><bibl><persName ref="http://d-nb.info/gnd/10022301X"><hi rendition="#aq"><hi rendition="#i">Nicolai</hi>, (Giov. Giorg.</hi></persName> <hi rendition="#aq">Divertimento per Dame ſu'l Cembalo, con-<lb/>ſiſtente in XII, Arie, Affettuoſe, Trio, Andante, Menuetti, e Po-<lb/>lonoiſe, <placeName>Rudolſtadt</placeName>. 4to transv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 12 gl.</bibl>
+            <lb/><bibl>Zwey Dutzend neue Polniſche Tänze, aus allen Tönen, zur Uebung<lb/>für Anfänger des Claviers und der Violine; wovon auch verſchie-<lb/>dene auf der Querflöte und Oboe ſich spielen lassen. <placeName>Warſchau</placeName>,<lb/>4to. <hi rendition="#aq">transv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 12 gl.</bibl>
+            <lb/><bibl><persName ref="http://d-nb.info/gnd/126963665">Sorgens, (Georg. Andr. <hi rendition="#aq">XXIV.</hi>)</persName> kurze Præludia, zum nützlichen Ge-<lb/>brauch kleiner Clavier-Schüler. <placeName>Nürnb.</placeName> 4to. <hi rendition="#aq">trv.</hi> Kupferſt. <hi rendition="#aq">à</hi> 10 gl.</bibl>
+            <lb/><bibl><persName ref="http://d-nb.info/gnd/131358685">Tiſcher, (Joh. Nic. Hochfürſtl. Sachsen-Meinung. Concertmeiſter,<lb/>und Organist zu Schmalkalden)</persName> ſechs leichte und dabey angeneh-<lb/>me Clavier-Partien, jungen Anfängern zur Uebung aufgeſetzet.<lb/>Kupferſt. <hi rendition="#aq">I.</hi> Theil. <placeName>Nürnb.</placeName> 4to. <hi rendition="#aq">à</hi> 10 gl.</bibl>
+            <lb/><bibl><persName>—</persName> — <hi rendition="#aq">III.</hi> Theil. 4to. <placeName>Nürnb.</placeName> <hi rendition="#aq">à</hi> 10 gl.</bibl>
+            <lb/><bibl><persName>—</persName> — <hi rendition="#aq">II.</hi> Theil. 4to. <placeName>Nürnb.</placeName> <hi rendition="#aq">à</hi> 10 gl.</bibl>
+            <lb/><bibl><persName>—</persName> — <hi rendition="#aq">IV.</hi> Theil. 4to. <placeName>Nürnb.</placeName> <hi rendition="#aq">à</hi> 10 gl.</bibl>
+            <lb/><bibl><persName>—</persName> — <hi rendition="#aq">V.</hi> Theil. 4to. <placeName>Nürnb.</placeName> <hi rendition="#aq">à</hi> 10 gl.</bibl>
+            <lb/><bibl><persName><hi rendition="#aq #i">A. T. (Thilo)</hi></persName> <hi rendition="#aq">XII. Menuettes de Redout, chaque Menuet avec<lb/>quatre Repetitions. <placeName>Coppenh.</placeName> 8vo. transv.</hi> Kupfſt. <hi rendition="#aq">à</hi> 6 gl.</bibl>
+          </div>
         </div>
         <pb n="18" facs="#f0018"/>
         <div>
