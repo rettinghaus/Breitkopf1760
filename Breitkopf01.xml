@@ -6,9 +6,22 @@
     <fileDesc>
       <titleStmt>
         <title>Verzeichniß Musikalischer Bücher, sowohl zur Theorie als Praxis, 1760</title>
+        <editor>
+          <persName ref="http://d-nb.info/gnd/140541624">
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>Seminar Digitale Edition</publisher>
+        <publisher>Sächsische Akademie der Wissenschaften zu Leipzig</publisher>
+        <publisher>Bach-Archiv Leipzig</publisher>
+        <pubPlace>Leipzig</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            <p>Dieses Werk steht unter der &#x201E;Creative Commons Attribution-ShareAlike 4.0 International&#x201C; (CC BY-SA 4.0).</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>Verzeichniß Musikalischer Bücher, sowohl zur Theorie als Praxis, und für alle Instrumente, in ihre gehörige Classen ordentlich eingetheilet; welche bey Johann Gottlob Immanuel Breitkopf in Leipzig um beystehende Preise […] zu bekommen sind
