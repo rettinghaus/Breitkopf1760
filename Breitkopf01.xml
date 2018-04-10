@@ -28,6 +28,11 @@
           Erste Ausgabe</bibl>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+    </profileDesc>
   </teiHeader>
   <text>
     <pb n="[1]" facs="#f0001"/>
