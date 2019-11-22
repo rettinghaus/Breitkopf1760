@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Verzeichniß Musikalischer Bücher, sowohl zur Theorie als Praxis, 1760</title>
+        <title type="part">Verzeichniß Musikalischer Bücher, sowohl zur Theorie als Praxis, 1760</title>
         <editor>
           <persName ref="http://d-nb.info/gnd/140541624">
             <surname>Rettinghaus</surname>
@@ -14,7 +14,6 @@
         </editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>Sächsische Akademie der Wissenschaften zu Leipzig</publisher>
         <publisher>Bach-Archiv Leipzig</publisher>
         <pubPlace>Leipzig</pubPlace>
         <availability>
