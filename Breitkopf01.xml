@@ -83,13 +83,13 @@
           </item>
           <lb/><item><hi rendition="#aq">VII.</hi> Die Orgel und das Clavecimbel. <ref target="#f0007">7</ref>
             <list>
-              <lb/><item></item>
-              <lb/><item></item>
-              <lb/><item></item>
-              <lb/><item></item>
-              <lb/><item></item>
-              <lb/><item></item>
-              <lb/><item></item>
+              <lb/><item>1.  Die Stimmung und Tempera-<lb/>tur. <ref target="#f0013">13</ref></item>
+              <lb/><item>2. Anweiſung zur Orgel und Cla-<lb/>vecimbel. <ref target="#f0013">1</ref></item>
+              <lb/><item>3. Stücke für die Orgel. <ref target="#f0014">14</ref></item>
+              <lb/><item>4. Kleine Stücke für das <abbr>Clavec.</abbr> <ref target="#f0016">16</ref></item>
+              <lb/><item>5. Größere Stücke für das Cla-<lb/>vecimbel, an Partien, Suiten, <lb/>Piecen, Concerten, Sinfonien, und <lb/>dergleichen Sammlungen. <ref target="#f0018">18</ref></item>
+              <lb/><item>6. Sonaten für das Clavecimbel. <ref target="#f0011">20</ref></item>
+              <lb/><item>7. Obligates und concertirendes <lb/>Clavecimbel, mit verſchiedenen <lb/>Inſtrumenten. <ref target="#f0023">20</ref></item>
             </list>
           </item>
           <cb/>
@@ -223,11 +223,19 @@
       <div>
         <head rendition="#c"><hi rendition="#aq">VII.</hi> Die Orgel und das Clavecimbel.</head>
         <div>
+          <head rendition="#c">1.  Die Stimmung und Temperatur.</head>
+          <lb/><bibl corresp="https://digital.deutsches-museum.de/item/BV003546555/">Sammlung einiger Nachrichten von berühmten Orgelwerken in Teutſchland, mit vieler Mühe aufgeſetzt von einem Liebhaber der Muſik. Breslau, 1757. 4to. à 6gl.</bibl>
+          <lb/><bibl><persName>Aletophili</persName> Schreiben an den Herrn <persName ref="https://d-nb.info/gnd/137999623">Joh. George Hofmann</persName>, be-<lb/>rühmten Ober-Organiſten an der Hauptkirche zu Marien-Magda-<lb/>lenen in Breslau. Lobenſtein 1759. à 1gl.</bibl>
+          <lb/><bibl><persName ref="https://d-nb.info/gnd/101307810">Fritzens, (Barthol.)</persName> Anweiſung, wie man Claviere, Clavecins und <lb/>Orgeln, nach einer mechaniſchen Art, in allen zwölf Tönen, gleich <lb/>rein ſtimmen könne, daß aus ſolchen allen ſowohl dur als moll wohlklingend zu ſpielen sey. Zweyte vermehrte und verbeſſerte <lb/>Auflage. Leipzig, 1757. 4to. à 3gl.</bibl>
+          <lb/><bibl corresp="http://resolver.staatsbibliothek-berlin.de/SBB0001E10900000000"><persName ref="https://d-nb.info/gnd/126963665">Sorgens, (Georg Andr.)</persName> zuverläßige Anweiſung, Claviere und <lb/>Orgeln behörig zu temperiren und zu ſtimmen; nebſt einem <lb/>Kupfer, welches die Ausmeſſung und Ausrechnung der Tempera-<lb/>tur, wie auch das Telemanniſche Intervallen-Syſtem darstel-<lb/>let, auf Veranlaſſung Herrn <persName ref="https://d-nb.info/gnd/101307810">Barthol. Fritzens</persName>, Inſtrumentma-<lb/>chers zu Braunſchweig, herausgegebenen mechaniſchen Art zu ſtimmen, <lb/>und zur Vertheidigung gegen denſelben entworfen. <lb/>Lobenſtein, 1758. 4to. à 4gl.</bibl>
+          <lb/><bibl></bibl>
+          <lb/><bibl></bibl>
         </div>
         <div>
           <pb n="14" facs="#f0014"/>
         </div>
         <div>
+          <head rendition="#c">2. Anweiſung zur Orgel und <lb/>Clavecimbel.</head>
           <pb n="15" facs="#f0015"/>
           <pb n="16" facs="#f0016"/>
         </div>
@@ -259,8 +267,10 @@
         </div>
         <pb n="18" facs="#f0018"/>
         <div>
+          <head rendition="#c">5. Größere Stücke für das Clavecimbel, an <lb/>Partien, Suiten, Piecen, Concerten, Sinfonien, <lb/>und dergleichen Sammlungen.</head>
           <pb n="19" facs="#f0019"/>
           <pb n="20" facs="#f0020"/>
+          <head rendition="#c">6. Sonaten für das Clavecimbel.</head>
         </div>
         <div>
           <pb n="21" facs="#f0021"/>
@@ -268,9 +278,12 @@
           <pb n="23" facs="#f0023"/>
         </div>
         <div>
+          <head rendition="#c">7. Obligates und concertirendes Clavecimbel, <lb/>mit verſchiedenen Inſtrumenten.</head>
           <div>
+            <head rendition="#c"><hi rendition="#aq">A.</hi> Trios mit einer Violine.</head>
           </div>
           <div>
+            <head rendition="#c"><hi rendition="#aq">B.</hi> Trios mit einer Flöte oder Violine.</head>
           </div>
           <pb n="24" facs="#f0024"/>
           <div>
